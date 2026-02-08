@@ -1,3 +1,4 @@
+// Galactic Swarm - Live Demo: https://salahqj.itch.io/galagtic-swarm
 let flockBlue = [];
 let flockRed = [];
 

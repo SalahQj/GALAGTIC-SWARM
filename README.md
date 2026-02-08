@@ -2,6 +2,7 @@
 **Réalisé par :** Qejiou Salah-eddine
 **Année Universitaire :** 2025-2026
 **Cours :** IA - Agents Autonomes (EMSI Casablanca)
+**Live Demo :** [https://salahqj.itch.io/galagtic-swarm](https://salahqj.itch.io/galagtic-swarm)
 
 ---
 
